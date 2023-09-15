@@ -7,4 +7,4 @@ Dataset: https://www.kaggle.com/datasets/jimschacko/10-years-diabetes-dataset?se
 
 code: https://moiz49.github.io/diabetes-medication/ 
 
-results: 
+results: https://github.com/Moiz49/diabetes-medication/blob/main/Report.pdf
